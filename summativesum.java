@@ -18,10 +18,7 @@ public class summativesum {public static void main(String[] args) {
         int[] third = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130,
             140, 150, 160, 170, 180, 190, 200, -99};
 
-        sum(first);
-        sum(second);
-        sum(third);
-
+        
         System.out.println("What You Should See ");
 
         System.out.println("#1 Array Sum: " + sum(first));
